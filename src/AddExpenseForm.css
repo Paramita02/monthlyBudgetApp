@@ -1,0 +1,11 @@
+.addExpense{
+    width:100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);      
+    
+    list-style-type: none;
+}
+
+.saveButton{
+    background-color:  rgb(0, 110, 255);
+}

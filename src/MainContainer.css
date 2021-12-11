@@ -1,0 +1,37 @@
+.Main {    
+    margin-top:50px;
+    margin-left:300px;
+    width:60%;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    border: 1px solid grey;
+   
+  }  
+  .component{  
+    
+    width: 30%;
+    height: 100px;
+    margin-bottom: 2%;
+    
+  }
+
+  .component:first-child{
+      width: 97%;
+      border: none;
+      height:50px;
+  }
+
+  .component:nth-child(5n){
+      width: 97%;
+      height: auto;
+  }
+
+  .component:nth-child(6n){
+    width: 97%;
+    height: auto;
+  }
+
+  

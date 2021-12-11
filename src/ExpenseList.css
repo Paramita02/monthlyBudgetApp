@@ -1,0 +1,74 @@
+.expenseDiv{
+    margin:0px;
+     width: 100%;
+     font-size: 20px;  
+    border: 1px solid yellow;
+ }
+ 
+ .inputSearch{
+     width:60%;
+     border:1px solid black;
+ }
+ 
+ ul{
+     padding: 0px;
+ }
+ 
+ .inputCost{
+     text-align: right;
+     border: none;
+ }
+ 
+ .inputName{
+     border: none;
+ }
+ .expDiv{
+     margin:0%;
+     
+ }
+ 
+ .tableValues{
+     font-size: 5px;
+ }
+ 
+ 
+ 
+
+ .costData{
+     background-color: rgb(0, 110, 255);
+    height: 10px;
+    width: 70px;
+     border-radius: 5px ;
+     font-size: 15px ;
+     color: white;
+ }
+
+ .editButton{
+    background-color: rgb(0, 110, 255);
+    border:1px solid black;
+ }
+
+ .delButton{
+    border-radius: 50px ;
+    font-size: 10px;
+ }
+
+ .rowData{
+     height:30px;
+ }
+ 
+ th,td {
+    border-bottom: 1px solid grey;
+     width: 95%;
+     font-size: 15px;
+     text-align: left;
+   }
+ 
+   th{
+     font-size: 40px;
+   }
+ 
+   button{
+       background-color: black;
+       color:white;
+   }
